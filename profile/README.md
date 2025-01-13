@@ -1,7 +1,7 @@
 # 📱 Mobile App Development Hub - Kombee
 
 <div align="center">
-  <img src="profile/app devlopment cover image (1).jpg" alt="Mobile Dev Logo" />
+  <img src="MobileApp-Dev-Kombee/.github/profile/app devlopment cover image (1).jpg" alt="Mobile Dev Logo" />
 
 ---
 
