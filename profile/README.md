@@ -224,4 +224,4 @@ We’re excited to collaborate and bring your ideas to life!
 - **Website**: [www.kombee.com](https://www.kombee.com)
 - **Email**: contact@kombee.com
 - **LinkedIn**: [Kombee Technologies](https://in.linkedin.com/company/kombee-global)
-- **Twitter**: [@KombeeTech](https://twitter.com/KombeeTech)
+- **Twitter**: [@KombeeTech](https://x.com/kombeeglobal)
