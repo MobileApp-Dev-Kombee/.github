@@ -221,7 +221,7 @@ Our development process adheres to industry best practices to ensure maintainabi
 
 We’re excited to collaborate and bring your ideas to life!
 
-- **Website**: [www.kombee.com/in](https://www.kombee.com)
+- **Website**: [www.kombee.com](https://www.kombee.com)
 - **Email**: contact@kombee.com
 - **LinkedIn**: [Kombee Technologies](https://in.linkedin.com/company/kombee-global)
 - **Twitter**: [@KombeeTech](https://twitter.com/KombeeTech)
