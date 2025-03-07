@@ -120,6 +120,7 @@ We specialize in developing high-performance, secure, and scalable mobile applic
     - [Fitness Tracking App](https://github.com/ios/fitness-demo)
     - [Meditation App](https://github.com/ios/meditation-demo) -->
   - 🖼️ **UI Screenshots**:
+  
     ![Online Food Shopping Product](servicefood_android_product.png)
     ![Online Food Shopping List](servicefood_android_list_page.png)
     ![Online Food Product List](servicefood_android_product_list.png)
@@ -131,10 +132,12 @@ We specialize in developing high-performance, secure, and scalable mobile applic
   - 🔧 Custom view components for unique experiences
   - 📱 **Live Apps**:
     - [Online Firm Track on Play Store](https://play.google.com/store/apps/details?id=com.ets.optimavaluepro)
+
   <!-- - 💻 **Demo Projects**:
     - [Smart Home Control](https://github.com/android/smarthome-demo)
     - [Weather App](https://github.com/android/weather-demo) -->
   - 🖼️ **UI Screenshots**:
+  
     ![Online Firm Track Dashboard](optimapro_login.png)
     ![Online Firm Track List](optimapro_Map.png)
 
