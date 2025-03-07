@@ -84,9 +84,9 @@ We specialize in developing high-performance, secure, and scalable mobile applic
     - [Food Delivery App](https://github.com/react-native/food-delivery-demo)
     - [Task Management App](https://github.com/react-native/task-manager-demo) -->
   - 🖼️ **UI Screenshots**:
-  
-    ![Loyality Home](opus_home.png)
-    ![Loyality Profile](opus_home.png)
+
+<img src="opus_home.png" alt="Loyality Home" width="300" />
+<img src="opus_home.png" alt="Loyality Profile" width="300" />
 
 - **Other Cross-Platform Solutions** 🔄
   - ⚡ **Ionic Framework**: Simplified hybrid app development
