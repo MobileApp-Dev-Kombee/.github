@@ -61,14 +61,14 @@ We specialize in developing high-performance, secure, and scalable mobile applic
     - 📱 Adaptive and responsive layouts
     - ♿ Accessibility-first approach for inclusivity
   - 📱 **Live Apps**:
-    - [E-Commerce App on Play Store](https://play.google.com/store/apps/details?id=com.flutter.ecommerce)
-    - [E-Commerce App on App Store](https://apps.apple.com/app/flutter-ecommerce/id123456789)
+    - [E-Commerce App on Play Store](https://play.google.com/store/apps/details?id=com.easternts.tamnhabhanu)
+    - [E-Commerce App on App Store](https://apps.apple.com/in/app/bhanu/id6449945694)
   - 💻 **Demo Projects**:
     - [Flutter TO-DO Provider](https://github.com/MobileApp-Dev-Kombee/todo_app_provider)
     - [Flutter Social Media App](https://github.com/flutter/social-demo)
   - 🖼️ **UI Screenshots**:
-    ![E-Commerce Home](https://example.com/flutter-ecommerce-home.png)
-    ![E-Commerce Product](https://example.com/flutter-ecommerce-product.png)
+    ![E-Commerce Home](MobileApp-Dev-Kombee/.github/profile/iamge2.png)
+    ![E-Commerce Product](image2.png)
 
 - **React Native** 📱
 
