@@ -85,8 +85,13 @@ We specialize in developing high-performance, secure, and scalable mobile applic
     - [Task Management App](https://github.com/react-native/task-manager-demo) -->
   - 🖼️ **UI Screenshots**:
 
-    ![Loyality Home](opus_home.png)
-    ![Loyality Profile](opus_home.png)
+  <div style="display: flex; gap: 10px;">
+  <img src="opus_home.png" alt="Loyality Home" width="300" />
+  <img src="opus_profile.png" alt="Loyality Profile" width="300" />
+</div>
+
+    <!-- ![Loyality Home](opus_home.png)
+    ![Loyality Profile](opus_home.png) -->
 <!-- 
 - **Other Cross-Platform Solutions** 🔄
   - ⚡ **Ionic Framework**: Simplified hybrid app development
@@ -121,9 +126,14 @@ We specialize in developing high-performance, secure, and scalable mobile applic
     - [Meditation App](https://github.com/ios/meditation-demo) -->
   - 🖼️ **UI Screenshots**:
   
-    ![Online Food Shopping Product](servicefood_android_product.png)
+   <div style="display: flex; gap: 10px;">
+  <img src="servicefood_android_product.png" alt="Online Food Shopping Product" width="200" />
+  <img src="servicefood_android_list_page.png" alt="Online Food Shopping List" width="200" />
+    <img src="servicefood_android_product_list.png" alt="Online Food Product List" width="200" />
+  </div>
+    <!-- ![Online Food Shopping Product](servicefood_android_product.png)
     ![Online Food Shopping List](servicefood_android_list_page.png)
-    ![Online Food Product List](servicefood_android_product_list.png)
+    ![Online Food Product List](servicefood_android_product_list.png) -->
 
 - **Android Development** 🤖
   - 🎨 Modern UI development with **Jetpack Compose**
@@ -137,9 +147,14 @@ We specialize in developing high-performance, secure, and scalable mobile applic
     - [Smart Home Control](https://github.com/android/smarthome-demo)
     - [Weather App](https://github.com/android/weather-demo) -->
   - 🖼️ **UI Screenshots**:
-  
-    ![Online Firm Track Dashboard](optimapro_login.png)
-    ![Online Firm Track List](optimapro_Map.png)
+
+
+ <div style="display: flex; gap: 10px;">
+  <img src="optimapro_login.png" alt="Online Firm Track Login" width="200" />
+  <img src="optimapro_map.png" alt="Online Firm Track Map" width="200" />
+  </div>
+    <!-- ![Online Firm Track Login](optimapro_login.png)
+    ![Online Firm Track List](optimapro_map.png) -->
 
 ---
 
