@@ -88,10 +88,11 @@ We specialize in developing high-performance, secure, and scalable mobile applic
   <div style="display: flex; gap: 10px;">
   <img src="opus_home.png" alt="Loyality Home" width="300" />
   <img src="opus_profile.png" alt="Loyality Profile" width="300" />
-</div>
+  </div>
 
     <!-- ![Loyality Home](opus_home.png)
     ![Loyality Profile](opus_home.png) -->
+    
 <!-- 
 - **Other Cross-Platform Solutions** 🔄
   - ⚡ **Ionic Framework**: Simplified hybrid app development
