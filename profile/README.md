@@ -85,8 +85,10 @@ We specialize in developing high-performance, secure, and scalable mobile applic
     - [Task Management App](https://github.com/react-native/task-manager-demo) -->
   - 🖼️ **UI Screenshots**:
 
-<img src="opus_home.png" alt="Loyality Home" width="300" />
-<img src="opus_home.png" alt="Loyality Profile" width="300" />
+<div style="display: flex; gap: 10px;">
+  <img src="opus_home.png" alt="Loyality Home" width="300" />
+  <img src="opus_home.png" alt="Loyality Profile" width="300" />
+</div>
 
 - **Other Cross-Platform Solutions** 🔄
   - ⚡ **Ionic Framework**: Simplified hybrid app development
