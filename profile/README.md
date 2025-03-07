@@ -65,9 +65,9 @@ We specialize in developing high-performance, secure, and scalable mobile applic
     - [E-Commerce App on App Store](https://apps.apple.com/in/app/bhanu/id6449945694)
   - 💻 **Demo Projects**:
     - [Flutter TO-DO Provider](https://github.com/MobileApp-Dev-Kombee/todo_app_provider)
-    - [Flutter Social Media App](https://github.com/flutter/social-demo)
+    <!-- - [Flutter Social Media App](https://github.com/flutter/social-demo) -->
   - 🖼️ **UI Screenshots**:
-  
+
     ![E-Commerce Home](image1.png)
     ![E-Commerce Product](image2.png)
 
@@ -78,14 +78,14 @@ We specialize in developing high-performance, secure, and scalable mobile applic
   - 🔄 State management using **Redux**, **MobX**, or Context API
   - 🔥 Enhanced developer productivity with **hot reloading**
   - 📱 **Live Apps**:
-    - [Food Delivery on Play Store](https://play.google.com/store/apps/details?id=com.rn.fooddelivery)
-    - [Food Delivery on App Store](https://apps.apple.com/app/rn-food-delivery/id987654321)
-  - 💻 **Demo Projects**:
+    - [Loyality on Play Store](https://play.google.com/store/apps/details?id=com.birlaopusid.contractorportal&hl=en_IN)
+    - [Loyality on App Store](https://apps.apple.com/in/app/birla-opus-id/id6476536889)
+  <!-- - 💻 **Demo Projects**:
     - [Food Delivery App](https://github.com/react-native/food-delivery-demo)
-    - [Task Management App](https://github.com/react-native/task-manager-demo)
+    - [Task Management App](https://github.com/react-native/task-manager-demo) -->
   - 🖼️ **UI Screenshots**:
-    ![Food Delivery Home](https://example.com/rn-food-home.png)
-    ![Food Delivery Order](https://example.com/rn-food-order.png)
+    ![Loyality Home](opus_home.png)
+    ![Loyality Profile](opus_home.png)
 
 - **Other Cross-Platform Solutions** 🔄
   - ⚡ **Ionic Framework**: Simplified hybrid app development
