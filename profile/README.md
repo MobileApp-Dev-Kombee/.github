@@ -85,11 +85,9 @@ We specialize in developing high-performance, secure, and scalable mobile applic
     - [Task Management App](https://github.com/react-native/task-manager-demo) -->
   - 🖼️ **UI Screenshots**:
 
-<div style="display: flex; gap: 10px;">
-  <img src="opus_home.png" alt="Loyality Home" width="250" />
-  <img src="opus_profile.png" alt="Loyality Profile" width="200" />
-</div>
-
+    ![Loyality Home](opus_home.png)
+    ![Loyality Profile](opus_home.png)
+<!-- 
 - **Other Cross-Platform Solutions** 🔄
   - ⚡ **Ionic Framework**: Simplified hybrid app development
     - 🌟 **Demo**: [Ionic Fitness Tracker](https://ionic-fitness-demo.com) 💪
@@ -104,7 +102,7 @@ We specialize in developing high-performance, secure, and scalable mobile applic
   - 📱 **Framework7**: Mobile-first framework for web and hybrid apps
     - 🌟 **Demo**: [Framework7 Task Manager](https://framework7-tasks-demo.com) ✅
   - 🎯 **Quasar Framework**: Vue.js-powered cross-platform apps
-    - 🌟 **Demo**: [Quasar Music Player](https://quasar-music-demo.com) 🎵
+    - 🌟 **Demo**: [Quasar Music Player](https://quasar-music-demo.com) 🎵 -->
 
 ---
 
@@ -117,13 +115,14 @@ We specialize in developing high-performance, secure, and scalable mobile applic
   - 🎮 Graphics and AR solutions using **Metal** and **ARKit**
   - ✨ Enriching user experiences with **App Clips** and **Widgets**
   - 📱 **Live Apps**:
-    - [Fitness Tracker on App Store](https://apps.apple.com/app/ios-fitness/id135792468)
-  - 💻 **Demo Projects**:
+    - [Online Food Shopping on App Store](https://apps.apple.com/nz/app/service-foods/id1429455264)
+  <!-- - 💻 **Demo Projects**:
     - [Fitness Tracking App](https://github.com/ios/fitness-demo)
-    - [Meditation App](https://github.com/ios/meditation-demo)
+    - [Meditation App](https://github.com/ios/meditation-demo) -->
   - 🖼️ **UI Screenshots**:
-    ![Fitness Dashboard](https://example.com/ios-fitness.png)
-    ![Workout Details](https://example.com/ios-workout.png)
+    ![Online Food Shopping Product](servicefood_android_product.png)
+    ![Online Food Shopping List](servicefood_android_list_page.png)
+    ![Online Food Product List](servicefood_android_product_list.png)
 
 - **Android Development** 🤖
   - 🎨 Modern UI development with **Jetpack Compose**
@@ -131,13 +130,13 @@ We specialize in developing high-performance, secure, and scalable mobile applic
   - 🎨 Comprehensive design adherence with **Material Design 3**
   - 🔧 Custom view components for unique experiences
   - 📱 **Live Apps**:
-    - [Smart Home on Play Store](https://play.google.com/store/apps/details?id=com.android.smarthome)
-  - 💻 **Demo Projects**:
+    - [Online Firm Track on Play Store](https://play.google.com/store/apps/details?id=com.ets.optimavaluepro)
+  <!-- - 💻 **Demo Projects**:
     - [Smart Home Control](https://github.com/android/smarthome-demo)
-    - [Weather App](https://github.com/android/weather-demo)
+    - [Weather App](https://github.com/android/weather-demo) -->
   - 🖼️ **UI Screenshots**:
-    ![Smart Home Dashboard](https://example.com/android-smarthome.png)
-    ![Device Control](https://example.com/android-devices.png)
+    ![Online Firm Track Dashboard](optimapro_login.png)
+    ![Online Firm Track List](optimapro_Map.png)
 
 ---
 
