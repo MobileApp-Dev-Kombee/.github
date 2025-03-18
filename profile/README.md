@@ -22,12 +22,10 @@
 [![FlutterFlow](https://img.shields.io/badge/FlutterFlow-0960F0?style=for-the-badge&logo=flutter&logoColor=white)](https://flutterflow.io/)
 [![AppGyver](https://img.shields.io/badge/AppGyver-00BFFF?style=for-the-badge&logo=appgyver&logoColor=white)](https://www.appgyver.com/)
 [![Sencha](https://img.shields.io/badge/Sencha-0080FF?style=for-the-badge&logo=sencha&logoColor=white)](https://www.sencha.com/)
-[![Corona SDK](https://img.shields.io/badge/Corona_SDK-000000?style=for-the-badge&logo=corona&logoColor=white)](https://coronalabs.com/)
 [![React Native Web](https://img.shields.io/badge/React_Native_Web-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://necolas.github.io/react-native-web/)
 [![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)](https://quasar.dev/)
 [![Framework7](https://img.shields.io/badge/Framework7-000000?style=for-the-badge&logo=framework7&logoColor=white)](https://framework7.io/)
 [![UIKit](https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=uikit&logoColor=white)](https://getuikit.com/)
-[![Cocos2d-x](https://img.shields.io/badge/Cocos2d_x-4B8BF5?style=for-the-badge&logo=cocos2d&logoColor=white)](https://www.cocos.com/en/)
 
 </div>
 
