@@ -124,9 +124,8 @@ We specialize in developing high-performance, secure, and scalable mobile applic
   - ✨ Enriching user experiences with **App Clips** and **Widgets**
   - 📱 **Live Apps**:
     - [Online Food Shopping on App Store](https://apps.apple.com/nz/app/service-foods/id1429455264)
-  <!-- - 💻 **Demo Projects**:
-    - [Fitness Tracking App](https://github.com/ios/fitness-demo)
-    - [Meditation App](https://github.com/ios/meditation-demo) -->
+   💻 **Demo Projects**:
+    - [Music Player App](https://github.com/MobileApp-Dev-Kombee/music_player_swift_ui_iOS)
   - 🖼️ **UI Screenshots**:
   
    <div style="display: flex; gap: 10px;">
